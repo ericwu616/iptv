@@ -6,8 +6,10 @@
 #EXTINF:-1 group-title="央视", CCTV-1 综合
 http://1.58.254.178:4001/udp/229.58.190.151:5000
 
-#EXTINF:-1 group-title="央视", CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" group-title="央视", CCTV-2 财经
 http://1.58.254.178:4001/udp/229.58.190.153:5000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" group-title="央视", CCTV-2 财经
+http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视", CCTV-3 综艺
 http://1.58.254.178:4001/udp/229.58.190.35:5000
@@ -151,4 +153,5 @@ http://1.58.254.178:4001/udp/229.58.190.183:5000
 http://1.58.254.178:4001/udp/229.58.190.185:5000
 
 ############################
+
 
