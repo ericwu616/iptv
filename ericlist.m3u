@@ -5,10 +5,6 @@
 ############################
 #EXTINF:-1 group-title="央视", CCTV-1 综合
 http://1.58.254.178:4001/udp/229.58.190.151:5000
-#EXTINF:-1 group-title="央视",CCTV-1 综合
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$LR•IPV6『线路4』
-#EXTINF:-1 group-title="央视",CCTV-1 综合
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路26』
 
 #EXTINF:-1 group-title="央视", CCTV-2 财经
 http://1.58.254.178:4001/udp/229.58.190.153:5000
@@ -155,3 +151,4 @@ http://1.58.254.178:4001/udp/229.58.190.183:5000
 http://1.58.254.178:4001/udp/229.58.190.185:5000
 
 ############################
+
